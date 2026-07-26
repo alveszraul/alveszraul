@@ -24,6 +24,7 @@
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
 ◈  Origin    →  Brazil 🇧🇷
+◈  alv***   →  18y
 </pre>
 
 </div>
