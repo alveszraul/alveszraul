@@ -73,8 +73,9 @@
 
 ## Statistics
 <div align="center">
-<img width="500" height="280" alt="Image" src=
-<img src="[https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak](https://github.com/user-attachments/assets/049cf96d-9427-4fb0-90ea-5e2c47f8d1a2)"/>
+<img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
+
+<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
 <br/>
 
