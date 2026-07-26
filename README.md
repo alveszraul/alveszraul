@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img ssrc="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 </div>
 
 
@@ -74,8 +74,7 @@
 <div align="center">
 <img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/2d12e094-897c-4240-8317-cdcc7809faca" />
 
-<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
 <br/>
 
 </div>
