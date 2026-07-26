@@ -36,7 +36,8 @@
 
 <img 
   width="400"
-  src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+  src="https://github.com/user-attachments/assets/2d12e094-897c-4240-8317-cdcc7809faca" />
+
 
 
 </div>
